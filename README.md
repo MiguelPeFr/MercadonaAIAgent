@@ -1,6 +1,6 @@
 # Mercadona AI Agent
 
-Un chatbot inteligente diseñado para proporcionar información detallada sobre productos y comidas del supermercado Mercadona, utilizando tecnología de procesamiento de lenguaje natural y búsqueda semántica.
+Un chatbot inteligente diseñado para proporcionar información detallada sobre productos y comidas del supermercado Mercadona (incluye PDF del Dataset de todos los productos scrappeados), utilizando tecnología de procesamiento de lenguaje natural y búsqueda semántica.
 
 ## Características Principales
 
